@@ -1,7 +1,7 @@
 Dans le dossier Phaser :
 Lancez le logiciel Mongoose et sélectionner Cupcake History.html
 
-Tout les jeux sont jouable dans l'ordre que le joueur veut il suffit de clicker sur le nom des jeux.
+Tous les jeux sont jouable dans l'ordre que le joueur veut il suffit de clicker sur le nom des jeux.
 
 
 
