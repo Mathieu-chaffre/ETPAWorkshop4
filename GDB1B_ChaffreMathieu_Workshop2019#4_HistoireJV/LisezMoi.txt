@@ -1,0 +1,42 @@
+Dans le dossier Phaser :
+Lancez le logiciel Mongoose et sélectionner Cupcake History.html
+
+
+
+Cerise for two
+
+Jeu au clavier :
+Barre de droite : 
+Touche : « A » et « Z »
+Barre de gauche
+Touche : « Flèche haut » et « Flèches bas »
+
+
+
+
+Bisc - out
+
+Jeu à la souris
+La barre se contrôle à la souris
+Click gauche lance la balle 
+
+
+
+Glacerio bros
+
+Jeu au clavier 
+Contrôles avec les flèches 
+(note : La platforme amovible peut prendre un certains temps à venir)
+
+
+
+
+The legends of bread
+
+Jeu au clavier 
+Contrôles avec les flèches 
+
+Contrôle une flèches à la fois
+
+Lors du tir maintenir la flèches en même temps pour la direction du tir
+
